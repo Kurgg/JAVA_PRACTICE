@@ -16,8 +16,8 @@ public class Variables {
       byte bit = 100;
       System.out.println(bit);
       //--Floating Point Typess
-      float num1 = 57e5 f; //e Indicates the power of 10, aka 10 times 5
-      double num2 = 12.87 d;
+      float num1 = 57e5f; //e Indicates the power of 10, aka 10 times 5
+      double num2 = 12.87d;
       System.out.println(num1);
       System.out.println(num2);
       //With "char" values, you can also use ASCII values

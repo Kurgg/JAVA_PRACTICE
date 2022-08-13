@@ -21,7 +21,7 @@ public class App {
       final int number2 = 10;
       System.out.println(number2);
       //--float point numbers--
-      float myfloat = 5.99 f;
+      float myfloat = 5.99f;
       System.out.println(myfloat);
       //--char for single characters
       char letter = 'D';
